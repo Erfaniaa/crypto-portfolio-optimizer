@@ -26,9 +26,7 @@ class CrytoPortfolioOptimizer:
 		if int(100 / self.weights_step_percision_percent) != 100 / self.weights_step_percision_percent:
 			print("weights_step_percision_percent is not a divisor of 100")
 			exit()
-		if int(100 / self.weights_step_percision_percent) > len(self.candidate_coins):
-			print("100 divided by weights_step_percision_percent is greater than the number of candidate_coins")
-			exit()
+
 
 	def find_best_portfolio(self):
 		self.check_if_input_is_valid()
