@@ -1,5 +1,5 @@
 # Crypto Portfolio Optimizer
-Cryptocurrencies portfolio optimizer and simulator (useful for investors and holders)
+A simple cryptocurrency portfolio optimizer and simulator (useful for investors and holders)
 
 <img src="https://github.com/Erfaniaa/crypto-portfolio-optimizer/assets/7780269/2b599a3e-eb85-429c-9b5e-0edde79d2590" width="70%">
 
