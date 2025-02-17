@@ -36,7 +36,7 @@ class WalletSimulator:
 			print("No data for " + coin)
 			exit()
 		df = df.dropna()
-		coin_prices_list = df['Close'].astype(float).tolist()
+		coin_prices_list = df['Close'].squeeze().astype(float).tolist()
 		self.coin_prices[coin] = coin_prices_list
 
 	def generate_wallet_usd_over_days(self):
