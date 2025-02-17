@@ -4,7 +4,7 @@ Cryptocurrencies portfolio optimizer and simulator (useful for investors and hol
 <img src="https://github.com/Erfaniaa/crypto-portfolio-optimizer/assets/7780269/2b599a3e-eb85-429c-9b5e-0edde79d2590" width="70%">
 
 ## Description
-Welcome to the Cryptocurrency Portfolio Optimizer – a dynamic tool designed for investors stepping into the world of cryptocurrencies. This project is an essential guide for those uncertain about which assets to include in their portfolio. By leveraging a powerful simulation (backtest) mechanism, provides a data-driven approach to asset allocation.
+This is a dynamic tool designed for investors stepping into the world of cryptocurrencies. This project is an essential guide for those uncertain about which assets to include in their portfolio. By leveraging a powerful simulation (backtest) mechanism, provides a data-driven approach to asset allocation.
 
 ## Key Features
 - Personalized Portfolio Simulation: Input your candidate cryptocurrencies and a specific time interval, and our tool will simulate (backtest) how these coins have performed historically.
